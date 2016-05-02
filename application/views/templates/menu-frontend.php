@@ -13,21 +13,28 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
 
-             <!-- Client Management -->
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lessons <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="<?php echo base_url();?>clients/search">Search</a></li>
-                <li><a href="<?php echo base_url();?>clients/create">Create</a></li>
-              </ul>
-            </li>
-
             <!-- Grammar section -->
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammar <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="<?php echo base_url();?>grammar/consonants">Consonants</a></li>
                 <li><a href="<?php echo base_url();?>grammar/sketch">Draw letters</a></li>
+              </ul>
+            </li>
+            
+             <!-- Lessons section -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lessons <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="<?php echo base_url();?>#">List</a></li>
+              </ul>
+            </li>
+            
+             <!-- Dictionary section -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dictionary <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="<?php echo base_url();?>#">Search</a></li>
               </ul>
             </li>
 
