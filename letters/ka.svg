@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 63.321274 72.183128"
+   id="glyph_ក">
+  <metadata
+     id="metadata3001">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2999" />
+  <g
+     transform="translate(-4.593566,-27.81687)"
+     id="ក">
+    <path
+       d="m 49.755859,57.910156 q -2.098844,-1.39923 -4.72198,-1.627349 -2.623137,-0.22812 -10.854191,-0.22812 -10.684375,0 -10.835352,7.22002 Q 23.193359,70.494727 23.193359,100 c -2.13623,0 -6.408691,0 -8.544921,0 q 0,-31.205274 4.882812,-45.800781 0.996572,-0.617875 3.919087,-1.822609 2.922515,-1.204735 18.053569,-1.204735 19.757813,0 19.644531,12.786426 Q 61.035156,76.744727 61.035156,100 c -2.13623,0 -6.408692,0 -8.544922,0 q 0,-31.605274 -2.734375,-42.089844 z M 35.986328,46.289062 q -9.00713,-5.72518 -10.128977,-6.907092 -1.121846,-1.181913 -8.474538,2.659046 c 1.464844,1.049805 4.394531,3.149413 5.859375,4.199218 q -3.995647,4.465722 -7.525653,1.620715 -3.530007,-2.845006 -5.95091,-4.745715 0,-2.733594 0.636505,-3.058584 0.636504,-0.324989 16.502167,-8.416025 2.138281,0 2.285058,0.150995 0.146778,0.150995 10.117286,6.440802 7.068485,-6.1964 7.22643,-6.394098 0.157945,-0.197699 2.246226,-0.197699 7.544437,4.625233 14.306641,7.275391 3.877734,0 -3.369141,7.373046 -3.358984,0 -6.03506,-1.619054 -2.676076,-1.619055 -8.418065,-5.216883 -7.355001,6.517089 -7.47086,6.676513 -0.115859,0.159424 -1.806484,0.159424 z"
+       id="path_ក"
+       style="fill:#000000;stroke-width:0px" />
+  </g>
+  <path
+     d="M 60.660671,69.64075 C 61.508129,36.58995 55.575926,21.33567 55.575926,21.33567 L 19.982705,18.7933 8.9657562,28.11535 6.423383,69.64075"
+     id="path3003"
+     style="fill:none;stroke:#df0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0" />
+  <path
+     d="M 7.391295,21.47351 0.5,13.98297 19.376155,1.99811 l 8.689024,0 6.292052,5.39318 8.689024,-6.89129 17.078427,8.3894 0,0 -0.299622,-0.59924 0,0 0,0"
+     id="path3773"
+     style="fill:none;stroke:#df0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0" />
+  <path
+     d="m 59.525439,8.29016 c -0.898865,-2.6966 -0.898865,-2.6966 -0.898865,-2.6966 m 0.898865,2.6966 c -3.295837,0.29962 -3.295837,0.29962 -3.295837,0.29962"
+     id="path3779"
+     style="fill:none;stroke:#df0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 58.926196,66.41675 1.797729,2.9962 2.09735,-3.2958"
+     id="path3783"
+     style="fill:none;stroke:#df0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     x="-0.39886123"
+     y="65.218292"
+     id="text3785"
+     xml:space="preserve"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="-0.39886123"
+       y="65.218292"
+       id="tspan3787">1</tspan></text>
+  <text
+     x="0.7996251"
+     y="25.668121"
+     id="text3013"
+     xml:space="preserve"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="0.7996251"
+       y="25.668121"
+       id="tspan3015">2</tspan></text>
+</svg>
