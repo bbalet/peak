@@ -25,6 +25,15 @@
         <p>Do not hesitate to use the dictionary from the menu bar.</p>
         
         <p>Let's start with the <a href="<?php echo base_url(); ?>lessons/1/view">first lesson</a>.</p>
+        
+        <p>Or read one of the articles:</p>
+        
+        <ul>
+            <li><a href="<?php echo base_url(); ?>numerals">Khmer numerals</a>.</li>
+            <li><a href="<?php echo base_url(); ?>months">Months in Khmer</a>.</li>
+        </ul>
+
+    </div>
+</div>
 
 </div>
-    </div>
